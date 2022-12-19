@@ -1,4 +1,5 @@
 # CAPSTONE-PROJECT-1
+Muhammad Damar Yulian Prakarsa
 
 •	Project ini menggunakan python.
 
